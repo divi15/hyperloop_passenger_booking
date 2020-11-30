@@ -14,8 +14,8 @@ System Logic : Whenever a pod is started, the pod should pickup
     ● take the route which has minimum interconnections
 
 Data Structure and Algorithms used in code:
-Dijkstra's Shortest Path Algorithm
-Linked List
+1. Dijkstra's Shortest Path Algorithm
+2. Linked List
 
 Programming Language :
 C
