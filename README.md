@@ -9,9 +9,10 @@ Assumptions
   b. Whenever a pod is started, the oldest person in the queue will boarding pod first.  
 6. Passengers can arrive at any time as well as pods can start at any time. 
 7. Assume infinite supply of pods and collision will never happen. 
-System Logic : Whenever a pod is started, the pod should pickup 
-    ● the oldest person from the passenger queue and 
-    ● take the route which has minimum interconnections
+System Logic :
+Whenever a pod is started, the pod should pickup 
+    1. the oldest person from the passenger queue and 
+    2. take the route which has minimum interconnections
 
 Data Structure and Algorithms used in code:
 1. Dijkstra's Shortest Path Algorithm
